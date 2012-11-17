@@ -6,19 +6,11 @@ It features clean semantic code, smart use of WordPress functions and the WordPr
 
 ## Demonstration
 
-See it live: [Foundation, for WordPress](http://fwp.drewsymo.com)
-
 ## Download
 
-Clone the git repo - `git clone git://github.com/drewsymo/Foundation.git` - or, [download the archive](https://github.com/drewsymo/Foundation/zipball/master). 
 
 ## Authors
 
 **ZURB**
 
 + Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA.
-
-**Drew Morris**
-
-+ [Twitter](http://twitter.com/drewsymo)
-+ [Blog](http://drewsymo.com)
